@@ -97,7 +97,8 @@ Seperate questions and images
 =  Big bubbles represent higher values like ages, or scores, helping us compare the data.
 
 These are our image diagram here sir.
-[diagram_image_numpy.pdf](https://github.com/AuntBawHein/python_numpy_projects_health_data_in_Myanmar/files/13804735/diagram_image_numpy.pdf)
+![diagram_image_numpy](https://github.com/AuntBawHein/python_numpy_projects_health_data_in_Myanmar/assets/150255399/6b7c87bb-c155-4183-aec5-cdbd80fbb768)
+
 
 
 These are all the codes sir, thank you very much.
