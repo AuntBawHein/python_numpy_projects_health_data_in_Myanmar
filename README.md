@@ -96,6 +96,10 @@ Seperate questions and images
 9.	Can you explain how the size of the bubbles on the graph is related to the data?
 =  Big bubbles represent higher values like ages, or scores, helping us compare the data.
 
+These are our image diagram here sir.
+[diagram_image_numpy.pdf](https://github.com/AuntBawHein/python_numpy_projects_health_data_in_Myanmar/files/13804735/diagram_image_numpy.pdf)
+
+
 These are all the codes sir, thank you very much.
 [reports_numpy_python (1).docx](https://github.com/AuntBawHein/python_numpy_projects_health_data_in_Myanmar/files/13692131/reports_numpy_python.1.docx)
 
